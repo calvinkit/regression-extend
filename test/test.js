@@ -3,7 +3,7 @@ var assert = require('assert');
 var regression = require('./../lib/regression');
 var stat = require('./../lib/statistics');
 
-describe('Regression', function() {
+describe('Linear Regression', function() {
     var x = [1,2,3,4,5,6,7,8,9,10];
     var y = [3,5,7,9,11.5,12.99,15.1,17.2,19.03,20.98];
     var result = regression.linear(x,y, {precision:5});

@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/calvinkit/regression-extend#readme",
   "dependencies": {
-    "mocha": "*",
     "regression": "*"
   }
 }
