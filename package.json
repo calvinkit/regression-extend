@@ -1,0 +1,26 @@
+{
+    "name": "regression-extend",
+        "version": "1.0.0",
+        "description": "Extension of current regression to include few more statistics",
+        "main": "lib/regression.js",
+        "scripts": {
+            "test": "mocha"
+        },
+        "repository": {
+            "type": "git",
+            "url": "git+https://github.com/calvinkit/regression-extend.git"
+        },
+        "keywords": [
+            "Regression"
+            ],
+        "author": "Calvin Lai",
+        "license": "GPL-3.0",
+        "bugs": {
+            "url": "https://github.com/calvinkit/regression-extend/issues"
+        },
+        "homepage": "https://github.com/calvinkit/regression-extend#readme",
+        "dependencies": {
+            "mocha":"*",
+            "regression":"*"
+        }
+}
