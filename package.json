@@ -1,6 +1,6 @@
 {
   "name": "regression-extend",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Extension of current regression to include few more statistics",
   "main": "lib/regression.js",
   "scripts": {
