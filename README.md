@@ -29,7 +29,7 @@ In addition to original regression properties, it includes the following:
 - `me`: mean error of the residual 
 - `sse`: Sum of square error/residual
 - `mse`: Mean square error (MSE)
-- `smse': Square root of MSE 
-- 'se': Standard error of beta/equation[0] 
-- 'tstat': t-Statistics of beta
-- 'zscore': an array of zscore of the predictions
+- `smse`: Square root of MSE 
+- `se`: Standard error of beta/equation[0] 
+- `tstat`: t-Statistics of beta
+- `zscore`: an array of zscore of the predictions
